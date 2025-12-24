@@ -39,9 +39,13 @@ input::placeholder {
     background-color: rgba(0, 255, 255, 0.425);
     text-align: center;
 }
-
+#gh{
+    width: 85px;
+    height: 37px;
+}
 .input-box {
     display: flex;
+    justify-content: end;
     gap: 10px;
 }
 
